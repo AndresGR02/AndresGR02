@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">Welcome to my GitHub page!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndresGR02&color=yellow" alt="Profile Views" /> </p>
 
 <!--
 **AndresGR02/AndresGR02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,8 +2,17 @@
 <h3 align="center">Welcome to my GitHub page!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndresGR02&color=yellow" alt="Profile Views" /> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGR02&theme=tokyonight)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresGR02)](https://github.com/anuraghazra/github-readme-stats)
+## ⚙️  GitHub Analytics
+
+</p>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndresGR02&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndresGR02&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndresGR02&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndresGR02&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=AndresGR02&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+![Snake animation](https://github.com/gardeniaftech/gardeniaftech/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--

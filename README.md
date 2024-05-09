@@ -2,6 +2,8 @@
 <h3 align="center">Welcome to my GitHub page!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndresGR02&color=yellow" alt="Profile Views" /> </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGR02&theme=tokyonight)
+
 <!--
 **AndresGR02/AndresGR02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
